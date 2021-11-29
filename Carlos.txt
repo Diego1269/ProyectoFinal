@@ -1,0 +1,4 @@
+Cambios hechos
+Comunicacion de las vistas
+Falta:
+Diseño
