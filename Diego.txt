@@ -1,0 +1,4 @@
+Correccion de errores hecha
+Falta:
+Interfaces 
+Comunicacion con las vistas
